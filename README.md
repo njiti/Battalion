@@ -1,4 +1,4 @@
-# battalion
+# Battalion
 
 A new Flutter project.
 
