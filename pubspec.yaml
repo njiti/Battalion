@@ -60,6 +60,9 @@ flutter:
   uses-material-design: true
   assets:
     - shorebird.yaml
+    - assets/images/
+    - assets/images/tank/walk/
+    - assets/images/tank/idle/
 
   # To add assets to your application, add an assets section, like this:
   # assets:
